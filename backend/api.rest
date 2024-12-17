@@ -1,0 +1,1 @@
+DELETE http://localhost:5000/api/chat/deleteChat/6729af3162657875be206bca
